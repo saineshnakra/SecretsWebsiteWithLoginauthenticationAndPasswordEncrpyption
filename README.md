@@ -10,3 +10,5 @@ version 3 :
 Uses Hashing technique to secure password using bcrypt
 Also salting rounds added to the system : 10
 
+version 4:
+Uses passport , passport local , sessions and passport local mongoose
