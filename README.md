@@ -16,3 +16,7 @@ Also salting rounds added to the system : 10
 
 version 4:
 Uses passport , passport local , sessions and passport local mongoose
+
+version 5 :
+Google and facebook sign up and sign in integrated
+
